@@ -10,14 +10,17 @@ the new data.
 * How is the school summary affected?
   The only school summary that is going to be effected is the summary for Thomas High School. Losing the data from a whole grade level actually improved the overall passing rate and reading rate but hurt the math rate.
   ![Original Tohmas Scores](https://user-images.githubusercontent.com/105613428/177621947-704aa799-f30f-4eb8-97a9-a7a46f6ca70a.PNG)
+  
   The original scores with the faulty data
+  
 ![New thomsd](https://user-images.githubusercontent.com/105613428/177621956-95730bad-6bc7-465c-bd3d-5c528cb0fba6.PNG)
+
   The new scores
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   The overall scores went up. 
 * How does replacing the ninth-grade scores affect the following:
   * Math and reading scores by grade: Thomas High was a high performing school so removing its data will make the overall average lower.
-  * Scores by school spending: Thomas High was in the upper-middle range of spending and its removal made that ranges average lower.\
+  * Scores by school spending: Thomas High was in the upper-middle range of spending and its removal made that ranges average lower.
   * Scores by school size: Thomas High was a medium sized school and its removal made the averages in that range lower.
   * Scores by school type: Thomas High was a charter school and its removal made the averages for that kind of school lower.
  #### Summary  
